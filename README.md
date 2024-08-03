@@ -1,6 +1,6 @@
 # Digit Classifier With KNN
 This project utilizes a subset of the MNIST handwriten dataset and a K-Nearest 
-Neighbor Approach to compare a sample to existing data in n-space via euclidean distance 
+Neighbor approach to compare a sample to existing data in n-space via euclidean distance 
 
 Training Data from https://yann.lecun.com/exdb/mnist/
 
