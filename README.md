@@ -1,4 +1,4 @@
-# Digit Classifier With KNN
+#Hand Written Digit Classifier With KNN
 This project utilizes a subset of the MNIST handwriten dataset and a K-Nearest 
 Neighbor approach to compare a sample to existing data in n-space via euclidean distance 
 
