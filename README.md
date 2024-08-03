@@ -11,13 +11,13 @@ Training Data from https://yann.lecun.com/exdb/mnist/
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/BeefStew34/DigitIdentifierKNN-Python
+git clone https://github.com/BeefStew34/DigitIdentifierKNN-Python
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd DigitIdentifierKNN-Python
+cd DigitIdentifierKNN-Python
 ~~~
 
 Install dependencies  
