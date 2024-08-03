@@ -31,7 +31,6 @@ class MNIST_READER:
         self.rows = self.readIInt(8,4)
         self.cols = self.readIInt(12,4)
         
-        print("*Reader Init Completed*")
         print(f"Image Size {self.rows}x{self.cols}")
         print(f"{self.samples} Samples Loaded")
 
