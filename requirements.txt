@@ -1,0 +1,11 @@
+click==8.1.7
+colorama==0.4.6
+decompyle3==3.9.2
+numpy==2.0.1
+opencv-python==4.10.0.84
+pillow==10.4.0
+six==1.16.0
+spark-parser==1.8.9
+tqdm==4.66.4
+uncompyle6==3.9.2
+xdis==6.1.1

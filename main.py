@@ -151,7 +151,7 @@ print("Vector Data Loaded/Created")
 print("Select Mode:")
 print("1) Random Sample With Training Data")
 print("2) Test With Custom Image Input")
-answer = input("(1,2):")
+answer = input("Select (1,2):")
 if answer == "1":
     size = input("Enter Random Sample Size(100)")
     if size == "":
