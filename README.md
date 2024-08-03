@@ -4,7 +4,11 @@ Neighbor approach to compare a sample to existing data in n-space via euclidean 
 
 Training Data from https://yann.lecun.com/exdb/mnist/
 
+Statistics:<br>
+With a K value of 10 and a sample of 5000 images (Excluded from training)
+we get 97.0% accuracy.
 
+Manual testing results vary when writing digits digitally.
 
 ## Run Project 
 
